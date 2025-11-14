@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.sqlite3
+*.db
+*.log
+*.egg-info/
+*.pytest_cache/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
